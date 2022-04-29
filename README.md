@@ -24,7 +24,7 @@ $ npm --version
 > 8.3.1
 ```
 
-2. É necessário que o projeto backend esteja rodando na sua máquina (https://github.com/tracontecnologia/ondw-1-server)[backend]
+2. É necessário que o projeto backend esteja rodando na sua máquina [backend](https://github.com/tracontecnologia/ondw-1-server)
 
 ### Instalar o projeto
 
