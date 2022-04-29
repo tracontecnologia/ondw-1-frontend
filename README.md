@@ -21,7 +21,7 @@ $ node --version
 > v14.19.1
 
 $ npm --version
-> 8.3.1
+> 6.14.16
 ```
 
 2. É necessário que o projeto backend esteja rodando na sua máquina [backend](https://github.com/tracontecnologia/ondw-1-server)
